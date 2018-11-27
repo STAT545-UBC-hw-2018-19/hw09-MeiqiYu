@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543302886562.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "993664368",
+    "id" : "D3489F7C",
+    "lastKnownWriteTime" : 1543355619,
+    "last_content_update" : 1543355619225,
+    "path" : "C:/STAT545A/STAT_545A_files/hw09-MeiqiYu/words_count.py",
+    "project_path" : "words_count.py",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "python"
+}

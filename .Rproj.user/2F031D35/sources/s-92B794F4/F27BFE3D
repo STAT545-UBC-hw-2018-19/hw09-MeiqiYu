@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543303438633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F27BFE3D",
+    "lastKnownWriteTime" : 1543360378,
+    "last_content_update" : 1543360378347,
+    "path" : "C:/STAT545A/STAT_545A_files/hw09-MeiqiYu/Makefile",
+    "project_path" : "Makefile",
+    "properties" : {
+        "cursorPosition" : "25,41",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "makefile"
+}

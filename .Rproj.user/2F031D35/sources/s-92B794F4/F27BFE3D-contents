@@ -1,9 +1,9 @@
 all: report.html 
 
 clean:
-	rm -f histogram.tsv histogram.png a.png b.png c.png words_count.csv first_letter.tsv first_letter.png report.md report.html README.md
+	rm -f  histogram.tsv histogram.png a.png b.png c.png words_count.csv first_letter.tsv first_letter.png report.md report.html *.png *.tsv README.md
 
-report.md: report.rmd histogram.tsv histogram.png first_letter.png first_letter.tsv a.png b.png c.png words_count.csv
+report.html: report.rmd histogram.tsv histogram.png first_letter.png first_letter.tsv a.png b.png c.png words_count.csv
 	Rscript -e 'rmarkdown::render("$<")'
 	rm -f Rplots.pdf
 
