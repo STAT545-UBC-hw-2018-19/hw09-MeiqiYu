@@ -7,7 +7,7 @@ This is a repository for Homework 09 - MeiqiYu. For the details of the
 assignment, please see
 [here](http://stat545.com/Classroom/assignments/hw09/hw09.html). This
 assignment is based on this
-[repo](https://github.com/STAT545-UBC/make-activity)
+[repo.](https://github.com/STAT545-UBC/make-activity)
 
 ## Files list
 
@@ -35,7 +35,8 @@ about the least one?
 I made a plot here, which shows the most frequent first letter is S, and
 the lesat frequent one is X.
 
-![*Fig. 1* Frequency of the first letter]()
+![*Fig. 1* Frequency of the first
+letter](https://github.com/STAT545-UBC-students/hw09-MeiqiYu/blob/master/first_letter.png)
 
 ## Frequency of the consecutive letters
 
